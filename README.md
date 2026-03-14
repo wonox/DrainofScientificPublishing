@@ -3,6 +3,7 @@
 
 The Drain of Scientific Publishing, ver 2 published 17 Nov 2025: Xiv:2511.04820
 https://doi.org/10.48550/arXiv.2511.04820
+
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 The Drain of Scientific Publishing
