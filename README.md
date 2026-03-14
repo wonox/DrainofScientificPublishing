@@ -1,0 +1,2 @@
+# DrainofScientificPublishing
+論文の翻訳および要約
